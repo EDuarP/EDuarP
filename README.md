@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EDuarP
-- 👀 I’m interested in data analytics and artificial intelligence
+- 👀 I’m interested in data science and artificial intelligence
 - 🌱 I’m currently learning data analysis
 
 
