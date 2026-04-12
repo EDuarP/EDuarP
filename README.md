@@ -60,15 +60,6 @@ Mechatronics engineer passionate about building intelligent systems that bridge 
 | [**Wireless-Signal-Classification**](https://github.com/EDuarP/Wireless-Signal-Classification-with-CNN-over-Segmented-IQ-Data) | 1D CNN for wireless technology classification (Wi-Fi, LTE, DVB-T) from IQ signals - 96.86% accuracy |
 | [**TransferLearning**](https://github.com/EDuarP/TransferLearning) | Educational notebook on fine-tuning with TensorFlow |
 
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=EduarP&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&hide=stars)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EduarP&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
 
 ## 🔗 Connect
 
