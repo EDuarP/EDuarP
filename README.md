@@ -9,11 +9,9 @@ Mechatronics engineer passionate about building intelligent systems that bridge 
 ## 🚀 What I'm Working On
 
 **MORPHEUS** - Distributed drone detection and triangulation system:
-- Multi-node RF acquisition with bladeRF SDRs and Raspberry Pi 5
-- Real-time spectrogram generation and ML-based classification
-- DOA estimation using MVDR beamforming
-- Geographic triangulation (WGS84/ECEF/ENU)
-- FastAPI backend + React frontend + MQTT coordination
+- Multi-node RF acquisition
+- ML-based classification
+- Geographic triangulation
 
 ---
 
